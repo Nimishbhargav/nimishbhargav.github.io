@@ -1,4 +1,4 @@
-  nimishbhargav.github.io" >> README.md
+  nimishbhargav.github.io
 git init
 git add README.md
 git commit -m "first commit"
